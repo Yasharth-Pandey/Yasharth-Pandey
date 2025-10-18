@@ -1,5 +1,6 @@
 ## Yasharth Pandey.
-AI/ML Engineer. I can be reached at vpyasharth@gmail.com
+AI/ML Engineer. 
+I can be reached at vpyasharth@gmail.com
 
 <!--
 **Yasharth-Pandey/Yasharth-Pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
